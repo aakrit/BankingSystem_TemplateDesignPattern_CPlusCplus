@@ -1,0 +1,13 @@
+This Project work is done in C++,
+
+The work represents what was asked. There a super class Account from where two other classes inherit: CheckingsAccount and SavingsAccount
+
+This code is somewhat interactive. The Account class has the template pattener where its calcInterest() method is a pure virtual function and is implemented in the two derived classes.
+
+I complied this code using xcode and it build and ran sucessfully.
+
+The code is very straight forward to follow and i have provided comments where necessary. Some things are committed out as i was trying to go above and beyond and do more than what the assignment asked for but did not have time to complete it.
+
+Please email with any questions @ aakrit@uchicago.edu
+
+Thank you.
